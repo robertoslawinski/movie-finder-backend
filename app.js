@@ -1,4 +1,9 @@
-require("dotenv").config();
+try {
+  process.loadEnvFile();
+} catch (e) {
+  console.warn(".env file not found, using default values.");
+}
+
 const jsonServer = require("json-server");
 const morgan = require("morgan");
 
