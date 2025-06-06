@@ -1,33 +1,40 @@
 {
-  "projects": [
+  "watchlist": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": "2011",
+      "genre": "Unknown",
+      "status": "Want to Watch",
+      "review": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "id": 2
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": "2004",
+      "genre": "Unknown",
+      "status": "Want to Watch",
+      "review": "Great movie. Better than the last one.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+      "id": 3
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "The Matrix Resurrections",
+      "year": "2021",
+      "genre": "Unknown",
+      "status": "Want to Watch",
+      "review": "The worts one",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "id": 5
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "The Mandalorian",
+      "year": "2019–",
+      "genre": "Unknown",
+      "status": "Want to Watch",
+      "review": "Good one!",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjgxZGM0OWUtZGY1MS00MWRmLTk2N2ItYjQyZTI1OThlZDliXkEyXkFqcGc@._V1_SX300.jpg",
+      "id": 7
     }
   ]
 }
