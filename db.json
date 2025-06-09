@@ -109,58 +109,31 @@
       "id": 24
     },
     {
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "year": "2001",
-      "genre": "Unknown",
-      "status": "Watched",
-      "review": "Great movie",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "id": 25
-    },
-    {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "year": "2004",
-      "genre": "Unknown",
-      "status": "Want to Watch",
-      "review": "I wanna see ",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
-      "id": 26
-    },
-    {
-      "title": "Harry Potter and the Half-Blood Prince",
-      "year": "2009",
-      "genre": "Unknown",
-      "status": "Want to Watch",
-      "review": "",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
-      "id": 27
-    },
-    {
       "title": "Harry Potter and the Forbidden Journey",
       "year": "2010",
       "genre": "Unknown",
       "status": "Want to Watch",
       "review": "",
       "poster": "https://m.media-amazon.com/images/M/MV5BNDM0YzMyNGUtMTU1Yy00OTE2LWE5NzYtZDZhMTBmN2RkNjg3XkEyXkFqcGdeQXVyMzU5NjU1MDA@._V1_SX300.jpg",
-      "id": 28
+      "id": 25
     },
     {
       "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
       "year": "2022",
       "genre": "Unknown",
-      "status": "Want to Watch",
-      "review": "",
+      "status": "Watched",
+      "review": "Nice movie",
       "poster": "https://m.media-amazon.com/images/M/MV5BZTNhNjg1NWItZThkNC00N2JiLTkzOTgtNzZjYzAyYTQ4OTEwXkEyXkFqcGc@._V1_SX300.jpg",
-      "id": 29
+      "id": 26
     },
     {
-      "title": "Harry Potter and the Deathly Hallows: Part 1",
-      "year": "2010",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": "2004",
       "genre": "Unknown",
       "status": "Want to Watch",
       "review": "",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
-      "id": 30
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+      "id": 27
     }
   ]
 }
